@@ -48,7 +48,7 @@ O conteúdo deste tutorial está organizado da seguinte forma:
 0. [Estilo](0_style.md)
 1. [Visualização](1_ro.md)
 2. [Branching](2_branch.md)
-3. Commit deltas (cherry-pick / stash)
+3. [Commit deltas (cherry-pick / stash)](3_pick_stash.md)
 4. [Rebase](4_rebase.md)
 5. [Hunk patching e resolução de conflitos](5_hunk.md)
 6. [Exemplos de outros assuntos](6_extra.md)
