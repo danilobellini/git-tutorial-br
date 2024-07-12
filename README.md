@@ -42,6 +42,8 @@ O <https://learngitbranching.js.org> ensina a organização em branches
 de forma interativa e bastante visual,
 algo que pode auxiliar a compreensão deste material
 (caso o leitor saiba inglês).
+Outra opção seria o jogo <https://ohmygit.org/> que mostra as
+estruturas internas de repositórios git em tempo real
 
 O conteúdo deste tutorial está organizado da seguinte forma:
 
