@@ -33,7 +33,7 @@ recomendo a leitura do capítulo *Git Basics* do livro *Pro Git*,
 gratuitamente disponível em <https://git-scm.com/book>
 em sua versão web (HTML, PDF).
 O link para a primeira edição em português é
-<https://git-scm.com/book/pt-br/v1>
+<https://git-scm.com/book/pt-br/v2>
 e o capítulo citado teve o título traduzido como *Git Essencial*.
 
 Há ainda sites que ensinam o básico de git de maneira interativa,
